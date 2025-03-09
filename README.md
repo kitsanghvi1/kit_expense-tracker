@@ -1,1 +1,2 @@
-# kit_expense-tracker
+# kit_expense-tracker# Kit Expense Tracker
+This is a personal expense tracking app.
